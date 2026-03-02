@@ -1,6 +1,7 @@
 # Due Diligence OSINT White Paper
 
-<img width="2752" height="1536" alt="unnamed (2)" src="https://github.com/user-attachments/assets/9dfcb042-c632-4c6d-abdb-5655eaf90b01" />
+<img width="2752" height="1536" alt="unnamed (2)" src="https://github.com/user-attachments/assets/f084c236-bbe1-4de4-af36-5255e62ac623" />
+
 
 
 White Paper tecnico-operativo definitivo sulla Due Diligence OSINT conforme GDPR, Codice Privacy italiano e normativa antiriciclaggio.
