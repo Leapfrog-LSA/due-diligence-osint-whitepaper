@@ -18,4 +18,10 @@ White Paper tecnico-operativo definitivo sulla Due Diligence OSINT conforme GDPR
 ⚠ **Riservato**: Uso interno per compliance e governance.
 Il documento è destinato esclusivamente a finalità informative, di analisi del rischio e di supporto decisionale interno nell'ambito di processi di governance, compliance e gestione del rischio. Qualsiasi utilizzo difforme, inclusa la divulgazione esterna non autorizzata o l'uso a fini diffamatori, è vietato. L'autore declina ogni responsabilità per decisioni assunte sulla base esclusiva del presente elaborato in assenza di ulteriori verifiche professionali, legali o tecniche adeguate al caso concreto.
 
-#DUE DILIGENCE #OSINT #LAVOROETICO #01 MARZO 2026
+Versione e autore
+Versione: 1.0 | Marzo 2026
+Autore: ARA Legal — Leapfrog LSA
+Contatto: aprire una Issue per domande o segnalazioni
+
+Licenza
+Distribuito sotto licenza Creative Commons BY-NC 4.0 — utilizzo libero per scopi non commerciali con attribuzione.
