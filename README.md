@@ -2,7 +2,7 @@
 
 <img width="2752" height="1536" alt="unnamed (2)" src="https://github.com/user-attachments/assets/f084c236-bbe1-4de4-af36-5255e62ac623" />
 
-
+[![Licenza: CC BY-NC 4.0](https://img.shields.io/badge/Licenza-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE)
 
 White Paper tecnico-operativo definitivo sulla Due Diligence OSINT conforme GDPR, Codice Privacy italiano e normativa antiriciclaggio.
 
