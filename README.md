@@ -6,7 +6,9 @@
 
 White Paper tecnico-operativo definitivo sulla Due Diligence OSINT conforme GDPR, Codice Privacy italiano e normativa antiriciclaggio.
 
-**Versione**: 1.0 | Marzo 2026 | ARA Legal
+**Versione white paper**: 1.0 | Marzo 2026 | ARA Legal
+
+📄 [`DueDiligence_OSINT_White Paper.pdf`](DueDiligence_OSINT_White%20Paper.pdf) — documento completo, 25 pagine
 
 ## Contenuti
 - Quadro normativo 2026 (GDPR, D.Lgs. 231/2001, TULPS)
@@ -30,11 +32,13 @@ Le appendici operative sono strumenti di lavoro per l'analista e vanno rimosse d
 ⚠ **Riservato**: Uso interno per compliance e governance.
 Il documento è destinato esclusivamente a finalità informative, di analisi del rischio e di supporto decisionale interno nell'ambito di processi di governance, compliance e gestione del rischio. Qualsiasi utilizzo difforme, inclusa la divulgazione esterna non autorizzata o l'uso a fini diffamatori, è vietato. L'autore declina ogni responsabilità per decisioni assunte sulla base esclusiva del presente elaborato in assenza di ulteriori verifiche professionali, legali o tecniche adeguate al caso concreto.
 
-Versione e autore
-Versione white paper: 1.0 | Marzo 2026
-Versione modello IDD-IT: 2.0 | Agosto 2026
-Autore: ARA Legal — Leapfrog LSA
-Contatto: aprire una Issue per domande o segnalazioni
+## Versione e autore
 
-Licenza
-Distribuito sotto licenza Creative Commons BY-NC 4.0 — utilizzo libero per scopi non commerciali con attribuzione.
+- **Versione white paper**: 1.0 | Marzo 2026
+- **Versione modello IDD-IT**: 2.0 | Agosto 2026
+- **Autore**: ARA Legal — Leapfrog LSA
+- **Contatto**: aprire una Issue per domande o segnalazioni
+
+## Licenza
+
+Distribuito sotto licenza [Creative Commons BY-NC 4.0](LICENSE) — utilizzo libero per scopi non commerciali con attribuzione.
